@@ -1,0 +1,9 @@
+C:\Users\inikk\source\repos\C-Sharp\Challenge1\Challenge1\bin\Challenge1.dll.config
+C:\Users\inikk\source\repos\C-Sharp\Challenge1\Challenge1\bin\Challenge1.dll
+C:\Users\inikk\source\repos\C-Sharp\Challenge1\Challenge1\bin\Challenge1.pdb
+C:\Users\inikk\source\repos\C-Sharp\Challenge1\Challenge1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\inikk\source\repos\C-Sharp\Challenge1\Challenge1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\inikk\source\repos\C-Sharp\Challenge1\Challenge1\obj\Debug\Challenge1.csprojResolveAssemblyReference.cache
+C:\Users\inikk\source\repos\C-Sharp\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\inikk\source\repos\C-Sharp\Challenge1\Challenge1\obj\Debug\Challenge1.dll
+C:\Users\inikk\source\repos\C-Sharp\Challenge1\Challenge1\obj\Debug\Challenge1.pdb
