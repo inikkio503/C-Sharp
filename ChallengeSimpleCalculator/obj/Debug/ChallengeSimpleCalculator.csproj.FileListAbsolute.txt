@@ -1,0 +1,9 @@
+c:\users\inikk\source\repos\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll.config
+c:\users\inikk\source\repos\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll
+c:\users\inikk\source\repos\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.pdb
+c:\users\inikk\source\repos\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\inikk\source\repos\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\inikk\source\repos\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.csprojResolveAssemblyReference.cache
+c:\users\inikk\source\repos\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.csproj.CoreCompileInputs.cache
+c:\users\inikk\source\repos\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.dll
+c:\users\inikk\source\repos\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.pdb
